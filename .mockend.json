@@ -1,4 +1,5 @@
-"Post": {
+{
+    "Post": {
     "_": {
       "items": 10
     },
@@ -54,3 +55,4 @@
       "belongsTo": "Post"
     }
   }
+}
