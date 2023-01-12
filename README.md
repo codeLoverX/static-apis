@@ -18,6 +18,5 @@ https://mockend.com/codeLoverX/static-apis/Comment
 
 https://my-json-server.typicode.com/
 
-https://my-json-server.typicode.com/codeLoverX/static-apis/Post \
-https://my-json-server.typicode.com/static-apis/User \
-https://my-json-server.typicode.com/static-apis/Comment 
+https://my-json-server.typicode.com/codeLoverX/static-apis/post \
+https://my-json-server.typicode.com/static-apis/profile \
