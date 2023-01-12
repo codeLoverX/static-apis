@@ -16,7 +16,9 @@ https://mockend.com/codeLoverX/static-apis/Comment
 
 <h5>  db.json </h5> 
 
-https://my-json-server.typicode.com/
+https://my-json-server.typicode.com
 
-https://my-json-server.typicode.com/codeLoverX/static-apis/post \
-https://my-json-server.typicode.com/static-apis/profile \
+https://my-json-server.typicode.com/codeLoverX/static-apis
+
+https://my-json-server.typicode.com/codeLoverX/static-apis/posts \
+https://my-json-server.typicode.com/static-apis/profile 
