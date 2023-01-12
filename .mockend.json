@@ -8,3 +8,4 @@
       "body": { "string": {} },
       "post": { "belongsTo": "Post" }
     }
+}
