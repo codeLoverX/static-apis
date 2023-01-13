@@ -5,7 +5,7 @@
         "src": "server.js",
         "use": "@vercel/node",
         "config": {
-          "includeFiles": ["db.json"]
+          "includeFiles": ["db.json", "json-server/db.json", "json-graphql-server/db.js"]
         }
       }
     ],
