@@ -6,7 +6,7 @@ const fs = require('fs');
 
 // jsonServer
 const jsonServer = require('json-server')
-app.use('/api', jsonServer.router('json-server/db.json'));
+app.use('/api', jsonServer.router('./json-server/db.json'));
 
 // jsonGraphql
 const jsonGraphqlExpress = require("json-graphql-server").default;
