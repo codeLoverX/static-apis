@@ -1,4 +1,37 @@
 module.exports = {
+    currencies: [
+        {
+            symbol: "$",
+            label: "USD"
+        },
+        {
+            symbol: "£",
+            label: "GBP"
+        },
+        {
+            symbol: "A$",
+            label: "AUD"
+        },
+        {
+            symbol: "¥",
+            label: "JPY"
+        },
+        {
+            symbol: "₽",
+            label: "RUB"
+        }
+    ],
+    categories: [
+        {
+            name: "all"
+        },
+        {
+            name: "clothes"
+        },
+        {
+            name: "tech"
+        }
+    ],
     posts: [
         { id: 1, title: "Lorem Ipsum", views: 254, user_id: 123 },
         { id: 2, title: "Sic Dolor amet", views: 65, user_id: 456 },

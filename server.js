@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
         fullUrl,
         gql: {
             schema: `${fullUrl}gql`,
-            server: `${fullUrl}grapqhl`
+            server: `${fullUrl}graphql`
         },
         rest: {
             schema: `${fullUrl}rest`,
